@@ -1,0 +1,11 @@
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\bin\Debug\netcoreapp2.1\BuffLux.deps.json
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\bin\Debug\netcoreapp2.1\BuffLux.runtimeconfig.json
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\bin\Debug\netcoreapp2.1\BuffLux.runtimeconfig.dev.json
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\bin\Debug\netcoreapp2.1\BuffLux.dll
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\bin\Debug\netcoreapp2.1\BuffLux.pdb
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\obj\Debug\netcoreapp2.1\BuffLux.csprojAssemblyReference.cache
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\obj\Debug\netcoreapp2.1\BuffLux.csproj.CoreCompileInputs.cache
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\obj\Debug\netcoreapp2.1\BuffLux.AssemblyInfoInputs.cache
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\obj\Debug\netcoreapp2.1\BuffLux.AssemblyInfo.cs
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\obj\Debug\netcoreapp2.1\BuffLux.dll
+D:\c#practis\rapidfire\BuffLux\BuffLux\BuffLux\obj\Debug\netcoreapp2.1\BuffLux.pdb
